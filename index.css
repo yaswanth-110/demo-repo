@@ -1,0 +1,14 @@
+
+
+.text{
+    border: 1px solid orangered;
+    transition: all 2s ease-out;
+
+}
+
+
+.text:hover{
+    transform: translateY(2);
+    cursor: pointer;
+
+}
